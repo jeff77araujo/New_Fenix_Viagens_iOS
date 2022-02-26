@@ -8,5 +8,5 @@ Criar navegação com TabView
 Aprender a fechar Views, adaptar o layout para iPhone e iPad com @Environment
 
 <img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_xcode.png" height=600 width=1200 /> 
-<img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_tela_destaques.png" height=600 width=300 /><img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_tela_mapa.png" height=600 width=300 /> 
+<img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_tela_destaques.png" height=600 width=300 /><img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_tela_mapa.png" height=600 width=300 /><img src="https://github.com/jeff77araujo/New_Fenix_Viagens_iOS/blob/main/print_tela_pacotes.png" height=600 width=300 />
 
